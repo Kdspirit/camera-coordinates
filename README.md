@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Notes--
+The Current geo-location is the correct real-time location.
+
+To fetch the current coordinates from a device's camera. It involves using Augmented Reality (AR) technology and Computer Vision algorithms to recognize and track markers or objects in the camera feed.
+
+The RGB values are used as placeholder values for the coordinates. They do not represent actual geographical coordinates.
+
+ The code snippet is intended to demonstrate the process of capturing pixel data from a video frame and storing it as coordinates, but it does not perform any real-world coordinate calculations.
 ## Available Scripts
 
 In the project directory, you can run:
