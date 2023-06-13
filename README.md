@@ -9,7 +9,7 @@ To fetch the current coordinates from a device's camera. It involves using Augme
 
 The RGB values are used as placeholder values for the coordinates. They do not represent actual geographical coordinates.
 
- The code snippet is intended to demonstrate the process of capturing pixel data from a video frame and storing it as coordinates, but it does not perform any real-world coordinate calculations.
+ The Camera's current RGB values here is intended to demonstrate the process of capturing pixel data from a video frame and storing it as coordinates, but it does not perform any real-world coordinate calculations.
 ## Available Scripts
 
 In the project directory, you can run:
